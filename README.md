@@ -1,1 +1,1 @@
-This is shrine and festival map in NOTO, 2025.
+This is a shrine and festival map in NOTO with Youtube, 2025.
