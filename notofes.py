@@ -77,7 +77,7 @@ else:
 
 # 1. サイドバーにスライダーを表示
 target_col2 = 'month' 
-start,stop = st.sidebar.slider('月の範囲を選んでください', 1, 12,(4,10))
+start,stop = st.sidebar.slider('月の範囲を選んでください(0:不明もしくは祭りなし)', 0, 12,(4,10))
 months = list(range(start, stop + 1))
 
 # 2. データを選択された月に絞り込む (サブセット作成)
