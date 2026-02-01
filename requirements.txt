@@ -1,3 +1,4 @@
+openpyxl
 folium
 streamlit
 streamlit-folium
