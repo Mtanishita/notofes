@@ -1,8 +1,0 @@
-folium
-streamlit-folium
-pandas
-geopandas
-numpy
-matplotlib.pyplot
-japanize_matplotlib
-streamlit.components.v1
