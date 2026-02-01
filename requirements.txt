@@ -1,3 +1,4 @@
+distutils
 folium
 streamlit
 streamlit-folium
