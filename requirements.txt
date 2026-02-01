@@ -1,8 +1,8 @@
 folium
+streamlit
 streamlit-folium
 pandas
 geopandas
 numpy
-matplotlib.pyplot
+matplotlib
 japanize_matplotlib
-streamlit.components.v1
