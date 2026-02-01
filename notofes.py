@@ -1,4 +1,4 @@
-pip freeze > Requirements.txt
+# python -m pip freeze > requirements.txt
 
 import folium
 import streamlit as st
